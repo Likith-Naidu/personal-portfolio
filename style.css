@@ -1,0 +1,95 @@
+body
+{
+  background-color: burlywood;
+}
+
+#navbar ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #C6011F;
+}
+
+#navbar li {
+  float: left;
+}
+
+#navbar li a {
+  font-size: 20px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 192px 16px 193.4px;
+  text-decoration: none;
+}
+
+#navbar li a:hover:not(.active) {
+  background-color: #111;
+}
+
+#navbar .active {
+  background-color: #04AA6D;
+}
+#welcome-section
+{
+  height: 170px;
+  background-color: #303030;
+  width: 100%;
+  color: azure;
+  font-family:'helvetica', Verdana, sans-serif;
+    padding: 225px 0;
+    text-align: center;
+}
+#projects
+{ text-align: center;
+  font-family:'helvetica', Verdana, sans-serif;
+  background-color: ;
+}
+figcaption
+{
+  text-decoration: none;
+  font-size: 20px;
+  color:black;
+  padding:10px 0px 8px 0px;
+  text-align: center;
+}
+#contact
+{
+  background-color: rgb(91, 6, 250);
+  color: white;
+  font-family: helvetica;
+  font-size: 20px;
+  text-align: center;
+}
+#contact ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #C6011F;
+}
+
+#contact li {
+  float: left;
+}
+
+#contact li a {
+  font-size: 20px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 250px 16px 250px;
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+#contact li a:hover:not(.active) {
+  background-color: #111;
+}
+
+#contact .active {
+  background-color: #04AA6D;
+}
