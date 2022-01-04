@@ -21,8 +21,9 @@ body
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 192px 16px 193.4px;
+  padding: 14px 100px 16px 100px;
   text-decoration: none;
+  margin-left: 130px;
 }
 
 #navbar li a:hover:not(.active) {
@@ -57,7 +58,7 @@ figcaption
 }
 #contact
 {
-  background-color: rgb(91, 6, 250);
+  background-color: #C6011F;
   color: white;
   font-family: helvetica;
   font-size: 20px;
@@ -81,8 +82,8 @@ figcaption
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 250px 16px 250px;
-  margin-left: 50px;
+  padding: 14px 100px 16px 100px;
+  margin-left: 250px;
   text-decoration: none;
 }
 
